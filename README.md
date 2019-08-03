@@ -1,0 +1,2 @@
+# mysql
+Sample sql queries
